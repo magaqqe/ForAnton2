@@ -19,3 +19,4 @@ git config --global user.name "Dmitry"
 git config --global user.email "playpplay8@gmal.com"
 конфигурирую пользователя
 из-за --global пользователь конфигурируется для всей системы и не нужно это делать еще раз
+командой git add . добавил все файлы
